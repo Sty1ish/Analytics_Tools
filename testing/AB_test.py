@@ -54,12 +54,9 @@ TwosideTesting(data, group_col = 'group', target_col = 'purchase', alpha = 0.05)
 
 
 
-# 해야할거.
-# 비모수 검정 + 고도화.
-
-
     
-    
+#%%
+# new line
 
 #%%
 
